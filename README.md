@@ -1,8 +1,6 @@
 # a workflow from Figma URL to Unity uGUI prefab
 
-This document explains how to set up an AI workflow that turns a Figma node URL into a Unity uGUI prefab. The workflow fetches Figma data, simplifies the design structure, uses AI to understand and split the UI semantically, generates a Unity prefab hierarchy description, validates and combines the result with scripts, and finally creates a uGUI prefab in the Unity Editor.
-
-If you want to use AI to improve the efficiency of creating Unity uGUI prefabs, this workflow can be used as a reference.
+If you want to use AI to improve the efficiency of creating Unity uGUI prefabs based on Figma, this workflow can be used as a reference.
 
 ## Overview
 
