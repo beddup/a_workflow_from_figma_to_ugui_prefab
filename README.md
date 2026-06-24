@@ -42,9 +42,7 @@ The workflow will generate a JSON file under `Assets/FigmaAssets`. Its structure
   "api_token": "figma api token",
   "node_id": "root node id parsed from figma url",
   "node_name": "root node name",
-  "working_dir_path": "path for intermediate files",
   "raw_content_path": "raw Figma data for the Figma URL",
-  "content_screen_path": "screenshot of the Figma node",
   "prefab_hierarchy_path": "Unity prefab hierarchy description file"
 }
 ```
