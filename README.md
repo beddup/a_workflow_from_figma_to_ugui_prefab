@@ -18,9 +18,9 @@ These three steps currently require some manual handoff. In real production usag
 
 Create a new Unity project, or use an existing one.
 
-### 1. Install Figma to UGUI Hierarchy
+### 1. Install Figma to uGUI Hierarchy
 
-Install [Figma to UGUI Hierarchy](https://github.com/beddup/FigmaToUGUIHierarchy.git) in your Unity project or workflow environment.
+Install [Figma to uGUI Hierarchy](https://github.com/beddup/FigmaToUGUIHierarchy.git) in your Unity project or workflow environment.
 
 This package contains the skills, subagents, scripts, and workflow instructions used to generate the Unity prefab hierarchy description file.
 
@@ -49,9 +49,9 @@ The workflow will generate a JSON file under `Assets/FigmaAssets`. Its structure
 }
 ```
 
-### 2. Install Figma UGUI Prefab Builder
+### 2. Install Figma uGUI Prefab Builder
 
-Install [Figma UGUI Prefab Builder](https://github.com/beddup/FigmaUGUIPrefabBuilder.git).
+Install [Figma uGUI Prefab Builder](https://github.com/beddup/FigmaUGUIPrefabBuilder.git).
 
 This module uses the result generated in the previous step to create the actual Unity prefab asset.
 
